@@ -1,6 +1,4 @@
 # Tic-Tac-Toe
-A Game which is designing in android studio using xml and java.
-A fine app where you can play with your friend. This is fully secure and safe. You you find any bug you can contant with us.
+I designed it using XML and JAVA , a fully user-friendly game , very easy to play .
 
 Download Link-
-https://github.com/tarunguptaraja/Tic-Tac-Toe/raw/master/app/release/Tic%20Tac%20Toe.apk
